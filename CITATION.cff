@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as described below."
+title: "Leakage-safe weekly HPAI risk mapping in Japan"
+version: 1.0.0
+type: software
+authors:
+  - family-names: "Arakawa"
+    given-names: "Toshiya"
+    affiliation: "Tokyo Denki University"
+    orcid: "https://orcid.org/0000-0002-3501-1055"
+repository-code: "https://github.com/umanokami2059/hpai-weekly-risk-mapping-japan"
+url: "https://github.com/umanokami2059/hpai-weekly-risk-mapping-japan"
+license: MIT
+abstract: >
+  Code and reproducibility materials for leakage-safe weekly risk mapping
+  of highly pathogenic avian influenza outbreaks in domestic poultry in Japan.
+keywords:
+  - "highly pathogenic avian influenza"
+  - "HPAI"
+  - "risk mapping"
+  - "veterinary surveillance"
+  - "GIS"
+  - "machine learning"
