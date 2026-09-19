@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.joblib
+*.parquet
+*.zip
+local_data/
+private_data/
