@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as described below."
 title: "Leakage-safe weekly HPAI risk mapping in Japan"
 version: 1.0.0
+doi: "10.5281/zenodo.22842138"
 type: software
 authors:
   - family-names: "Arakawa"
