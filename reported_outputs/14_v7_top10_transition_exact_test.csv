@@ -1,0 +1,2 @@
+﻿test,gain_to_top10,loss_from_top10,discordant_pairs,two_sided_p_value
+Exact paired discordant-transition binomial test,12,4,16,0.076812744140625

@@ -1,0 +1,22 @@
+{
+  "notebook_version": "06_v2_rolling_riskmap_evaluation_previous_week_weather_final",
+  "run_timestamp": "2026-06-17T12:09:53",
+  "panel_path": "/content/drive/MyDrive/avian_influenza_project/processed/hpai_weekly_grid_panel_with_previous_week_weather_model_ready.parquet",
+  "panel_rows": 1641809,
+  "grid_count": 5491,
+  "model_names": [
+    "geo_season_previous_week_weather",
+    "geo_season_previous_week_weather_same_grid_lags",
+    "geo_season_previous_week_weather_neighbor_past",
+    "geo_season_previous_week_weather_lags_neighbor_past"
+  ],
+  "event_rows_per_model": {
+    "geo_season_previous_week_weather": 61,
+    "geo_season_previous_week_weather_same_grid_lags": 61,
+    "geo_season_previous_week_weather_neighbor_past": 61,
+    "geo_season_previous_week_weather_lags_neighbor_past": 61
+  },
+  "figure1_source": "/content/drive/MyDrive/avian_influenza_project/processed/model_outputs_riskmap_eval/06_v2_rolling_pooled_summary_previous_week_weather.csv",
+  "figure2_source": "/content/drive/MyDrive/avian_influenza_project/processed/model_outputs_riskmap_eval/06_v2_rolling_event_cases_previous_week_weather.csv",
+  "all_checks_passed": true
+}

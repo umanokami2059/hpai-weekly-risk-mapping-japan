@@ -1,0 +1,4 @@
+﻿split_name,train_start,train_end_exclusive,test_start,test_end_exclusive,train_rows,train_events,test_rows,test_events
+test_fy2023,2020-08-01,2023-04-01,2023-04-01,2024-04-01,741285,129,285532,11
+test_fy2024,2020-08-01,2024-04-01,2024-04-01,2025-04-01,1026817,140,291023,30
+test_fy2025,2020-08-01,2025-04-01,2025-04-01,2026-04-01,1317840,170,285532,20
