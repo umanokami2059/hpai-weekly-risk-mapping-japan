@@ -74,4 +74,9 @@ Later diagnostic/reanalysis notebooks (`14_v9_*`, later full-tile GIS rebuilds, 
 
 ## Citation
 
-Please cite the associated Preventive Veterinary Medicine article after publication. A versioned archive DOI should be added here once the repository release is deposited.
+Zenodo DOI: 10.5281/zenodo.22842138
+
+Archived release:
+https://doi.org/10.5281/zenodo.22842138
+
+Please cite the associated Preventive Veterinary Medicine article after publication.
